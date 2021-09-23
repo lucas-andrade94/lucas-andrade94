@@ -1,7 +1,7 @@
 ## Hi there, I'm Lucas Andrade
 
-- 🔭 I’m currently working on front-end project using React, HTML5 and CSS3.
-- 🌱 I’m currently learning GraphQL and Docker
+- 🔭 I’m currently working on front-end projects using React, HTML5 and CSS3.
+- 🌱 I’m currently learning GraphQL, Docker, AWS and Agile
 - 📫 How to reach me: andradelucas94@gmail.com
 - 💻 Looking for an Entry Level job as a Front-end developer
 
