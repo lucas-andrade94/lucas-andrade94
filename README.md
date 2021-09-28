@@ -1,7 +1,7 @@
 ## Hi there, I'm Lucas Andrade
 
 - 🔭 I’m currently working on front-end projects using React, HTML5 and CSS3.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning React Native and more about React.
 - 📫 How to reach me: andradelucas94@gmail.com
 - 💻 Looking for an Entry Level job as a Front-end developer
 
