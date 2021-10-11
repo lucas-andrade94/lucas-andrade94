@@ -1,9 +1,9 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFAHgChlADbTQ/profile-displaybackgroundimage-shrink_350_1400/0/1633973126826?e=1639612800&v=beta&t=dg0yCncqWrgximLOE0p_MkC6OH6KPzh19QRgSBDlcI8"/>
 
-- 🔭 I’m currently working on front-end projects using React, HTML5 and CSS3.
+- 🔭 I’m currently working on front-end projects using React, React Native, HTML5, and CSS3.
 - 🌱 I’m currently learning React Native and more about React.
 - 📫 How to reach me: andradelucas94@gmail.com
-- 💻 Looking for an Entry Level job as a Front-end developer
+- 💻 Looking for an Entry Level/Junior job as a Front-end developer
 
 ##
 
