@@ -1,7 +1,7 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFAHgChlADbTQ/profile-displaybackgroundimage-shrink_350_1400/0/1633973126826?e=1639612800&v=beta&t=dg0yCncqWrgximLOE0p_MkC6OH6KPzh19QRgSBDlcI8"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFNosVAHaBkDg/profile-displaybackgroundimage-shrink_200_800/0/1636506439741?e=1642032000&v=beta&t=oQk8YDymXnieLZNVZ4OmlXZMsZCkvqyp3mXA9q3XSPs"/>
 
 - 🔭 I’m currently working on front-end projects using React, React Native, HTML5, and CSS3.
-- 🌱 I’m currently learning Vue and PHP.
+- 🌱 I’m currently learning Ruby and React.
 - 📫 How to reach me: andradelucas94@gmail.com
 - 💻 Looking for an Entry Level/Junior job as a Front-end developer
 
