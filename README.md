@@ -10,7 +10,7 @@
   <img align="center" alt="Next" height="40" width="40" src="https://images.ctfassets.net/ny1gz60bo252/7oTLWmxcoiMv8Yz7SiOSih/3b4ecbed46034a2dad9763e885ee199d/next-js.png?w=1024&h=1024&q=50&fm=png">
   <img align="center" alt="Node" height="40" width="40" src="https://www.svgrepo.com/show/373929/node.svg">
   <img align="center" alt="TS" height="40" width="40" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://www.svgrepo.com/show/197982/html.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://www.svgrepo.com/show/183637/html5.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
  <img align="center" alt="Tailwind" height="40" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg">
