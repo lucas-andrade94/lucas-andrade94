@@ -1,7 +1,6 @@
 - 🔭 I’m currently working on projects using React, Node.js, HTML5, and CSS3.
 - 🌱 I’m currently improving my knowledge in React, Next.js and Node.js.
 - 📫 How to reach me: andradelucas94@gmail.com
-- 💻 Looking for an Entry Level/Junior job as a Software developer
 
 ## Languages and Tools:
 <div>
